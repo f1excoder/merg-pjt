@@ -1,2 +1,6 @@
-hello a1.txt
-edited in feature1
+  
+edited in feature 2
+>>>>>>> feature-2
+
+
+conflict fixed
